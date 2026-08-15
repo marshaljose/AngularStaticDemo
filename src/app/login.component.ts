@@ -12,7 +12,7 @@ import { Router } from '@angular/router';
       <div class="login-card">
         <div class="brand-block">
           <div class="brand-icon">E</div>
-          <h1>Employee Portal</h1>
+          <h1>Employee Portals</h1>
         </div>
 
         <form (ngSubmit)="onSubmit()" #loginForm="ngForm" novalidate>
